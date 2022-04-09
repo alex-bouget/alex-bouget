@@ -1,6 +1,6 @@
 # this github's page is Mine.
 
-![MEGA HAPPY STONKS](https://github.com/MisterMine01/MisterMine01/happy.gif)
+![MEGA HAPPY STONKS](https://github.com/MisterMine01/MisterMine01/blob/main/happy.gif?raw=true)
 
 It's me. it's my ✨ _special_ ✨ repository (apparently) because its `README.md` (this file)
 
