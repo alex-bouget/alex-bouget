@@ -1,5 +1,7 @@
 # this github's page is Mine.
 
+[![MEGA HAPPY STONKS](https://github.com/MisterMine01/MisterMine01/happy.gif)]
+
 It's me. it's my ✨ _special_ ✨ repository (apparently) because its `README.md` (this file)
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=MisterMine01&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
