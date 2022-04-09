@@ -9,7 +9,7 @@ It's me. it's my ✨ _special_ ✨ repository (apparently) because its `README.m
 
 I'm a developer, actually in the [informatic department of the University of Bordeaux](https://www.iut.u-bordeaux.fr/info/).
 
-I use python, javascript, php for my personal project and use assembly (powerPC G5), c, c++,  c# and java for the university.
+I use python, javascript, php, sql for my personal project and use assembly (powerPC G5), c, c# and java for the university. I also knew c++ (arduino), batch (*windows*) and bash (*linux*).
 
 ### My cool repositories (in order of importance)
 
