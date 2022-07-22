@@ -11,7 +11,9 @@ It's me. it's my ✨ _special_ ✨ repository (apparently) because its `README.m
 
 I'm a developer, actually in the [informatic department of the University of Bordeaux](https://www.iut.u-bordeaux.fr/info/).
 
-I use [python](https://www.python.org/), [javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [php](https://www.php.net/), [sql](https://en.wikipedia.org/wiki/SQL) for my personal project and use [assembly (powerPC G5)](https://en.wikipedia.org/wiki/Power_Mac_G5), [c](https://en.wikipedia.org/wiki/C_(programming_language)), [c#](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/) and [java](https://www.java.com/en/) for the university. I also knew [c++ (arduino)](https://en.wikipedia.org/wiki/C%2B%2B), [batch (*windows*)](https://en.wikipedia.org/wiki/Batch_file) and [bash (*linux*)](https://en.wikipedia.org/wiki/Bash_(Unix_shell)).
+I use [python](https://www.python.org/), [javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [php](https://www.php.net/), [sql](https://en.wikipedia.org/wiki/SQL) for my personal project.
+
+And use [assembly (powerPC G5)](https://en.wikipedia.org/wiki/Power_Mac_G5), [c](https://en.wikipedia.org/wiki/C_(programming_language)), [c#](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/) and [java](https://www.java.com/en/) for the university. I also knew [c++ (arduino)](https://en.wikipedia.org/wiki/C%2B%2B), [batch (*windows*)](https://en.wikipedia.org/wiki/Batch_file) and [bash (*linux*)](https://en.wikipedia.org/wiki/Bash_(Unix_shell)).
 
 ### My cool repositories
 
