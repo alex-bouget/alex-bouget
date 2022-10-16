@@ -1,0 +1,39 @@
+body > header {
+    margin: 2px;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: space-between;
+    border: 3px solid black;
+    border-radius: 5px;
+}
+
+body > header > section {
+    display: flex;
+    justify-content: space-around;
+}
+
+body > header > * {
+    flex: 2 0 auto;
+}
+
+body > header > div {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    background-color: rgba(175, 175, 175, 0.5);
+    display: flex;
+    justify-content: space-around;
+    border-radius: 5px;
+    flex: 1 0 auto;
+}
+body > header > div > p {
+    background-color: gray;
+    margin: auto;
+    padding: 10px;
+    border: 3px solid gray ;
+    border-radius: 5px;
+}
+
+body > header > div > p:hover {
+    border-color: red;
+}

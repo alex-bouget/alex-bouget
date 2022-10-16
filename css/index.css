@@ -9,110 +9,11 @@ body {
     flex-direction: column;
 }
 
-button {
-    background-color: gray;
-    margin: auto;
-    padding: 10px;
-    border: 3px solid gray ;
-    border-radius: 5px;
-}
-
-button:hover {
-    border-color: red;
-}
-
-body > header {
-    margin: 2px;
-    background-color: rgba(0, 0, 0, 0.5);
-    display: flex;
-    justify-content: space-between;
-    border: 3px solid black;
-    border-radius: 5px;
-}
-
-body > header > section {
-    display: flex;
-    justify-content: space-around;
-}
-
-body > header > * {
-    flex: 2 0 auto;
-}
-
-body > header > div {
-    margin-top: 5px;
-    margin-bottom: 5px;
-    margin-right: 5px;
-    background-color: rgba(175, 175, 175, 0.5);
-    display: flex;
-    justify-content: space-around;
-    border-radius: 5px;
-    flex: 1 0 auto;
-}
-body > header > div > p {
-    background-color: gray;
-    margin: auto;
-    padding: 10px;
-    border: 3px solid gray ;
-    border-radius: 5px;
-}
-
-body > header > div > p:hover {
-    border-color: red;
-}
-
-
 
 body > div {
     margin-top: 0.5%;
     display: flex;
     flex: 15 0 auto;
-}
-
-#me {
-    background-color: rgba(0, 0, 0, 0.5);
-    flex: 1 0 auto;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin: 1%;
-    border-radius: 10px;
-    border: 3px solid black;
-}
-
-body > div > section {
-    background-color: rgba(0, 0, 0, 0.5);
-    flex: 2 0 auto;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin: 1%;
-    border-radius: 10px;
-}
-
-body > div > section > div {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    width: 99%;
-    border-radius: 5px;
-    background-color: rgba(175, 175, 175, 0.5);
-}
-body > div > section > div > section {
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-    width: 80%;
-}
-
-body > div > section > article {
-    background-color: rgba(0, 0, 0, 0.5);
-    width: 95%;
-    border-radius: 25px;
-    margin: 5px;
-    display: flex;
-    flex: 5 0 auto;
-    overflow-y: scroll;
 }
 
 
