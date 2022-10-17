@@ -98,7 +98,10 @@ var ProjectsSystem = new class {
                     ProjectData[project].description,
                     ProjectData[project].tags,
                     ProjectData[project].theme,
-                    this.projectsContainer
+                    ProjectData[project].theme_data,
+                    this.projectsContainer,
+                    document.getElementById("projectTemplate")
+
                 )
             );
         }

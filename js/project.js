@@ -1,26 +1,41 @@
 class Project {
-    constructor(name, description, tags, theme, container) {
+    constructor(name, description, tags, theme, themeData, container, themeContainer) {
         this.name = name;
         this.description = description;
         this.tags = tags;
         this.theme = theme;
+        this.theme_container = themeContainer;
+        this.theme_data = themeData;
+
+
         this.project = document.createElement("div");
-        var dname = document.createElement("h1")
-        dname.innerHTML = this.name;
-        var ddescription = document.createElement("p")
-        ddescription.innerHTML = this.description;
-        var dtags = document.createElement("p");
-        dtags.innerHTML = "Tags: ";
-        for (var tag in this.tags) {
-            dtags.innerHTML += this.tags[tag] + ", ";
-        }
-        dtags.innerHTML = dtags.innerHTML.slice(0, -2);
+        this.project.onclick = () => {
+            this.load_theme();
+        };
+        this.project.appendChild(function(that) {
+            var dname = document.createElement("h1")
+            dname.innerHTML = that.name;
+            return dname;
+        }(this));
+        this.project.appendChild(function(that) {
+            var ddescription = document.createElement("p")
+            ddescription.innerHTML = that.description;
+            return ddescription;
+        }(this));
+        this.project.appendChild(function (that) {
+            var dtags = document.createElement("p");
+            dtags.innerHTML = "Tags: ";
+            for (var tag in that.tags) {
+                dtags.innerHTML += that.tags[tag] + ", ";
+            }
+            dtags.innerHTML = dtags.innerHTML.slice(0, -2);
+            return dtags;
+        }(this));
 
-
-        this.project.appendChild(dname);
-        this.project.appendChild(ddescription);
-        this.project.appendChild(dtags);
         container.appendChild(this.project);
+    }
+    load_theme() {
+        Loader.load(this.theme, this.theme_data, this.theme_container);
     }
     filter(allTags, research) {
         for (var i = 0; i < allTags.length; i++) {
