@@ -4,6 +4,6 @@ let Loader = new class {
         for (var key in data) {
             dat = dat.replace("{" + key + "}", data[key]);
         }
-        container.innerHTML = "<div class=\"" + this.theme + "\">" + dat + "</div>";
+        container.innerHTML = "<div class=\"" + theme + "\">" + dat + "</div>";
     }
 }();

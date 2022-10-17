@@ -133,3 +133,5 @@ var ProjectsSystem = new class {
         }
     }
 }();
+
+//Loader.load("dini", {}, document.getElementById("projectTemplate"));

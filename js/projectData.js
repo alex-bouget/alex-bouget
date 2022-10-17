@@ -28,10 +28,33 @@ let ProjectData = [
         "name": "ClimatView",
         "description": "SAE 2.4 et 2.5, 2022",
         "tags": ["2022", "Python", "SAE", "IUT"],
-        "theme": "theme1",
+        "theme": "oneimage",
         "theme_data": {
             "name": "ClimatView",
             "description": "SAE 2.4 et 2.5, 2022",
+        }
+    },
+    {
+        "name": "Lowatem",
+        "description": "SAE 1.02, maintiens d'un code sur la durée",
+        "tags": ["2021", "Java", "SAE", "IUT"],
+        "theme": "oneimage",
+        "theme_data": {
+            "img1": "img/root/Lowatem1.png",
+            "img1Alt": "Lowatem graphique",
+            "CahierCharges": `- Créer les règles d'un jeu suivant
+                les instructions demandés (une fois une règles implémenter et fonctionnelle, on passe au suivant)
+                <br>
+            - Créer une "intelligence artificielles" (doit juste pouvoir prendre le coups le plus intéressant)"
+            `,
+            "competences": `- Java<br>
+            - Avoir un code propre et maintenable sur le temps<br>
+            - Test unitaires<br>
+            - Travailler en équipes<br>
+            `,
+            "methodes": `J'ai débuter par lire le code puis, pour chaque demande, j'ai commencé par ajouter le code besoin afin de changer le code préexistant pour que tous fonctionne.
+            <br>
+            Pour l'IA, nous avons tous deux créer une intelligence puis avec un code développer au début de cette partie nous les avons fusionné.`
         }
     },
     {
@@ -72,9 +95,24 @@ let ProjectData = [
 ]
 
 let themeData = {
-    "theme1": `
-        <p>{name}</p>
-        <p>{description}</p>
+    "oneimage": `
+        <section>
+            <img src="{img1}" alt="{img1Alt}">
+            <div>
+                <h3>Cahier des charges</h3>
+                <p>{CahierCharges}</p>
+            </div>
+        </section>
+        <article>
+            <section>
+                <h3>Compétences</h3>
+                <p>{competences}</p>
+            </section>
+            <section>
+                <h3>Méthodes</h3>
+                <p>{methodes}</p>
+            </section>
+        </article>
     `,
     "dini": `
         <h2>Attention: Chantier en cours</h2>

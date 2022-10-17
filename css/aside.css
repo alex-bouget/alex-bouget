@@ -19,6 +19,7 @@ aside {
     margin: 1%;
     border-radius: 10px;
     border: 3px solid black;
+    max-height: 80vh;
 }
 
 aside > #depliant {
@@ -35,8 +36,7 @@ aside > #depliant {
 
 aside > #allProject{
     width: 100%;
-    max-height: 80vh;
-    height: 100%;
+    max-height: calc(100vh - 15%);
     display: flex;
     flex-direction: column;
     align-items: center;
