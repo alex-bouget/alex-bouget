@@ -27,6 +27,8 @@ The most useful (i use it in all my code (Utopia, Nadia, and most of my private 
 
 [![Utopia](https://github-readme-stats.vercel.app/api/pin/?username=MisterMine01&repo=UtopiaClient&theme=radical)](https://github.com/MisterMine01/UtopiaClient)
 
+**This project is today in pause and maybe never finish**.
+
 Utopia is a game (i made it). the client is, for the moment the only public repositories (but they has **UtopiaBdd** (for the database), **UtopiaServer** (for the battle server), and **UtopiaPrincipalServer** (for the account and the grouping of all battle server) ). The [first version](https://github.com/MisterMine01/PyUtopiaClient/tree/Beta-0.1) was in 2019 in python and continue to evolving again today.
 
 #### 3. Nadia
@@ -37,6 +39,6 @@ Nadia is a account system who has purpose to combine multiples accounts in one (
 
 #### 4. Kromblast
 
-[![Nadia](https://github-readme-stats.vercel.app/api/pin/?username=MisterMine01&repo=Kromblast&theme=radical)](https://github.com/MisterMine01/Kromblast)
+[![Kromblast](https://github-readme-stats.vercel.app/api/pin/?username=MisterMine01&repo=Kromblastcpp&theme=radical)](https://github.com/MisterMine01/Kromblastcpp)
 
-Kromblast is an application for transform a website to native application (like [Electron](https://www.electronjs.org/) but without node.js), without download it all the time (you install Kromblast one time and all app use the same Kromblast). It's a work in progress.
+Kromblast is an application for transform a website to native application (like [Electron](https://www.electronjs.org/) but without node.js), without download it all the time (you install Kromblast one time and all app use the same Kromblast).
