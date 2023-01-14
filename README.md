@@ -11,9 +11,11 @@ It's me. it's my ✨ _special_ ✨ repository (apparently) because its `README.m
 
 I'm a developer, actually in the [informatic department of the University of Bordeaux](https://www.iut.u-bordeaux.fr/info/).
 
-I use [python](https://www.python.org/), [javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [php](https://www.php.net/), [sql](https://en.wikipedia.org/wiki/SQL) for my personal project.
+I use [python](https://www.python.org/), [javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [php](https://www.php.net/), [sql](https://en.wikipedia.org/wiki/SQL) and [c++](https://fr.wikipedia.org/wiki/C%2B%2B) for my personal project.
 
-And use [assembly (powerPC G5)](https://en.wikipedia.org/wiki/Power_Mac_G5), [c](https://en.wikipedia.org/wiki/C_(programming_language)), [c#](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/) and [java](https://www.java.com/en/) for the university. I also knew [c++ (arduino)](https://en.wikipedia.org/wiki/C%2B%2B), [batch (*windows*)](https://en.wikipedia.org/wiki/Batch_file) and [bash (*linux*)](https://en.wikipedia.org/wiki/Bash_(Unix_shell)).
+I use [c](https://en.wikipedia.org/wiki/C_(programming_language)), [c#](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/) and [java](https://www.java.com/en/) for the university.
+
+With that, i also knew [batch (*windows*)](https://en.wikipedia.org/wiki/Batch_file) and [bash (*linux*)](https://en.wikipedia.org/wiki/Bash_(Unix_shell)).
 
 ### My cool repositories
 
@@ -21,15 +23,16 @@ And use [assembly (powerPC G5)](https://en.wikipedia.org/wiki/Power_Mac_G5), [c]
 
 [![PCJsApi](https://github-readme-stats.vercel.app/api/pin/?username=MisterMine01&repo=PCJsApi&theme=radical)](https://github.com/MisterMine01/PCJsApi)
 
-The most useful (i use it in all my code (Utopia, Nadia, and most of my private repositories) ) it's a cursor for pointing to a php function with your request **an exemple with [FDS](https://github.com/MisterMine01/FDS)**
+The most useful (i use the first version in all my code (Utopia, Nadia, and most of my private repositories) ) it's a cursor for pointing to a php function with your request **an exemple with [FDS](https://github.com/MisterMine01/FDS)**. Today i rewrite it to make it more simple for use it.
 
 #### 2. Utopia
 
-[![Utopia](https://github-readme-stats.vercel.app/api/pin/?username=MisterMine01&repo=UtopiaClient&theme=radical)](https://github.com/MisterMine01/UtopiaClient)
+[![Utopia](https://github-readme-stats.vercel.app/api/pin/?username=MisterMine01&repo=PyUtopiaClient&theme=radical)](https://github.com/MisterMine01/PyUtopiaClient)
+[![Utopia-All](https://github-readme-stats.vercel.app/api/pin/?username=MisterMine01&repo=Utopia&theme=radical)](https://github.com/MisterMine01/Utopia)
 
 **This project is today in pause and maybe never finish**.
 
-Utopia is a game (i made it). the client is, for the moment the only public repositories (but they has **UtopiaBdd** (for the database), **UtopiaServer** (for the battle server), and **UtopiaPrincipalServer** (for the account and the grouping of all battle server) ). The [first version](https://github.com/MisterMine01/PyUtopiaClient/tree/Beta-0.1) was in 2019 in python and continue to evolving again today.
+Utopia is a card game. The [first version](https://github.com/MisterMine01/PyUtopiaClient/tree/Beta-0.1) was in 2019 in python and continue to evolving again today.
 
 #### 3. Nadia
 
