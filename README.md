@@ -10,8 +10,6 @@ It's me. it's my ✨ _special_ ✨ repository (apparently) because its `README.m
 
 <!-- LINK ABOUT ME -->
 
-### About Me
-
 ## <picture><img src = "https://github.com/alex-bouget/alex-bouget/blob/main/img/computer.gif?raw=true" width = 30px></picture> About me
 
 - <img src="https://github.com/alex-bouget/alex-bouget/blob/main/img/trophy.gif?raw=true" width = 10px> I'm a developer, actually in the [informatic department of the University of Bordeaux](https://www.iut.u-bordeaux.fr/info/).
