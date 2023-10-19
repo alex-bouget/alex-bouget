@@ -24,8 +24,8 @@ It's me. it's my ✨ _special_ ✨ repository (apparently) because its `README.m
 
 ### recurrently use
 
-[![](https://skillicons.dev/icons?i=js,html,css,php,cpp,mysql,python,bash,git,github,)](https://skillicons.dev)
+![](https://skillicons.dev/icons?i=js,html,css,php,cpp,mysql,python,bash,git,github,)
 
 ### Sometime use
 
-[![](https://skillicons.dev/icons?i=vuejs,java,c,cs,gitlab,markdown,)](https://skillicons.dev)
+![](https://skillicons.dev/icons?i=vuejs,java,c,cs,gitlab,markdown,)
