@@ -14,15 +14,13 @@ It's me. it's my ✨ _special_ ✨ repository (apparently) because its `README.m
 
 ## <picture><img src = "https://github.com/alex-bouget/alex-bouget/blob/main/img/computer.gif?raw=true" width = 30px></picture> About me
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
-
 - <img src="https://github.com/alex-bouget/alex-bouget/blob/main/img/trophy.gif?raw=true" width = 10px> I'm a developer, actually in the [informatic department of the University of Bordeaux](https://www.iut.u-bordeaux.fr/info/).
 
 <br>
 
 <!-- LINK LANGUAGES -->
 
-## <picture><img src = "https://github.com/alex-bouget/alex-bouget/blob/main/img/computer.gif?raw=true" width = 30px></picture> Languages
+## <picture><img src = "https://github.com/alex-bouget/alex-bouget/blob/main/img/programming-languages.gif?raw=true" width = 30px></picture> Languages
 
 ### recurrently use
 
